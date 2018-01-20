@@ -109,6 +109,8 @@ iterator
 -
 particle_filter.h
 /Users/shruti/Udacity/term-2/Projects/project-3/CarND-Kidnapped-Vehicle-Project/src/particle_filter.h
+helper_functions.h
+/Users/shruti/Udacity/term-2/Projects/project-3/CarND-Kidnapped-Vehicle-Project/src/helper_functions.h
 
 /Users/shruti/Udacity/term-2/Projects/project-3/CarND-Kidnapped-Vehicle-Project/src/particle_filter.h
 helper_functions.h
